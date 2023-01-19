@@ -1,0 +1,16 @@
+# Róbert Leó Jónsson: Summary of Research Projects Lectures
+
+# Introduction
+The lectures are the beginnings of a basic guide for aspiring researchers. They cover the steps and skills needed to plan, execute, and finalize a research project well and on time. The first lecture focused on the research process. Most emphasized were the initial stages of research projects, their planning, and the student-advisor relationships that develop within them. In addition, a useful list of qualities that successful research students have was presented and discussed. 
+
+The topic of the second lecture was the basics of project management. The reason for this is that research projects are indeed projects, so the principles of project management are directly applicable. The coverage was a concise and practical overview that can be readily applied.
+
+# Three main lessons
+There is a trade-off between what the aspiring researcher *wants* to research, and what *can* effectively be researched. It is incredibly exciting to speculate about possible major breakthroughs and how they might be achieved. However, as was stated in the lecture, major breakthroughs are rare, and perhaps the field of interest has not even advanced far enough to allow the answering of the questions that the student is most interested in. 
+
+Sometimes, students attempt to conduct research as if it were some other endeavor, something they have done before. As an example, computer science students tend to write their papers as if they were documentation or a manual. They perform experiments as if they were software development. This seems like a pitfall that is easy to fall into, and should therefore be strongly kept in mind. Research is research, not something else.
+
+All projects can be planned and effectively scheduled. It is possible to identify the main deliverables of the project. From those, it is possible to pinpoint the main steps that need to be performed. The recursive process of breaking down large problems into small ones will hit the base case of manageable work pieces. Their duration can then be approximately estimated, and the work pieces scheduled properly. It may not be perfect, but it will always be immensely more effective than working without a schedule, plans, and deadlines for your work.  
+
+# Summary
+The driving force behind scientific research is human curiosity. It should be playful and undertaken with a spirit of adventure. At the same time, we would not gain any knowledge without rock-solid scientific rigor and discipline. The researcher, though adventurous and playful, must not lose sight of this. He should define a rigorous and sensible question, and make sure it is not so impossibly ambitious that it cannot be worked on. He must then properly plan and conduct the research as research should be conducted. Finally, the researcher must manage himself and the project effectively, or the quality of his work might be compromised. Only then might he produce real scientific knowledge; the goal of the adventure.
